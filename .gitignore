@@ -1,0 +1,4 @@
+/audio/
+transformer/procesed/
+vae/processed_mel/
+*.log
